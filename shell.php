@@ -1,5 +1,5 @@
 <?php
-$dir    = '/var/www';
+$dir    = '/var/www/';
 $files = scandir($dir);
 
 
