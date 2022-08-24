@@ -1,5 +1,5 @@
 <?php
-$dir    = '/tmp';
+$dir    = '/home';
 $files = scandir($dir);
 
 
